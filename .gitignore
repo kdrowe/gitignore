@@ -2,7 +2,7 @@
 z*
 
 #Ignores a file called .env.
-*.env
+.env
 
 #Ignores a top-level directory named artifacts
 /artifacts/
